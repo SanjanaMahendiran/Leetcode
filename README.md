@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/SanjanaMahendiran/Leetcode/tree/master/0039-combination-sum) |
+## Math
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/SanjanaMahendiran/Leetcode/tree/master/0233-number-of-digit-one) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/SanjanaMahendiran/Leetcode/tree/master/0233-number-of-digit-one) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/SanjanaMahendiran/Leetcode/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
